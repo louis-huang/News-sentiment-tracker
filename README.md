@@ -1,9 +1,13 @@
 # News-sentiment-tracker
 News Crawler + Simple Sentiment tracker
 
-## Screenshot of running
+## Screenshot of running crawler:
 <img width="923" alt="Screen Shot 2019-03-20 at 7 37 57 PM" src="https://user-images.githubusercontent.com/32749721/54728058-6cb4e100-4b49-11e9-8637-152f79878214.png">
 
+## Screentshot of stock/bitcoine sentiment table with palceholder left for market price.
+<img width="1020" alt="Screen Shot 2019-03-20 at 7 38 32 PM" src="https://user-images.githubusercontent.com/32749721/54728125-ee0c7380-4b49-11e9-9b0f-bf8adc418853.png">
+
+## Documentation
 News Sentiment Tracker
 Objects:
 There are 3 main objects in this program:
