@@ -1,6 +1,9 @@
 # News-sentiment-tracker
 News Crawler + Simple Sentiment tracker
 
+## Screenshot of running
+<img width="923" alt="Screen Shot 2019-03-20 at 7 37 57 PM" src="https://user-images.githubusercontent.com/32749721/54728058-6cb4e100-4b49-11e9-8637-152f79878214.png">
+
 News Sentiment Tracker
 Objects:
 There are 3 main objects in this program:
